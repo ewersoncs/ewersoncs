@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ewerson Silva
 
-<!--
-**ewersoncs/ewersoncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology and programming enthusiast, exploring **Flutter** as a hobby.  
+I use this space to share simple projects, experimental ideas, and personal learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🎯 Interested in mobile development using Flutter, Swift  
+- 🧩 Enjoy understanding how things work behind the interface  
+- 📚 Self-taught, applying knowledge through personal projects
+
+---
+
+> “Improving with every project. No rush — just consistency.”
